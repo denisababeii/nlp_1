@@ -1,5 +1,3 @@
-# Run ´docker run --name mycontainer -p 8000:8000 app:latest´
-
 FROM python:3.11-alpine
 
 RUN pip install uv
